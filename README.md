@@ -15,7 +15,7 @@ $\color{#E30F72}{RESIDENT}$ $\color{#E30F72}{EVIL}$
 
 $\color{#E30F9D}{FORSAKEN}$
 
-$\color{#E30F72}{DANDYS}$ $\color{#E30F72}{WORLD}$
+$\color{#E30DCA}{DANDYS}$ $\color{#E30F72}{WORLD}$
 
 $\color{#E30ECB}{CREEPYPASTA’S}$
 
